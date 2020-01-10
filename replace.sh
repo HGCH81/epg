@@ -48,7 +48,7 @@ sed -i 's/A Bola TV/PT-A-BOLA-TV/g' guide.xml
 sed -i 's/Hollywood/PT-HOLLYWOOD/g' guide.xml
 sed -i 's/CINEMUNDO/PT-CINEMUNDO/g' guide.xml
 sed -i 's/AMC/PT-AMC/g' guide.xml
-sed -i 's/TVCINE_1/PT-TVCINE_1/g' guide.xml
+sed -i 's/TVCine 1/PT-TVCINE_1/g' guide.xml
 sed -i 's/TVCine 2/PT-TVCINE_2/g' guide.xml
 sed -i 's/TVCine 3/PT-TVCINE_3/g' guide.xml
 sed -i 's/TVCine 4/PT-TVCINE_4/g' guide.xml
