@@ -6,8 +6,8 @@ sed -i 's/RTP África/PT-RTP_AFRICA/g' guide.xml
 sed -i 's/RTP Internacional/PT-RTP_INTERNACIONAL/g' guide.xml
 sed -i 's/RTP Açores/PT-RTP_ACORES/g' guide.xml
 sed -i 's/RTP Madeira/PT-RTP_MADEIRA/g' guide.xml
-sed -i 's/SIC/PT-SIC/g' guide.xml
-sed -i 's/SIC Notícias/PT-SIC_NOTÍCIAS/g' guide.xml
+sed -i 's/"SIC"/"PT-SIC"/g' guide.xml
+sed -i 's/SIC Notícias/PT-SIC_NOTICIAS/g' guide.xml
 sed -i 's/SIC Radical/PT-SIC_RADICAL/g' guide.xml
 sed -i 's/SIC K/PT-SIC_K/g' guide.xml
 sed -i 's/SIC Mulher/PT-SIC_MULHER/g' guide.xml
