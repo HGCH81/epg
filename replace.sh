@@ -1,6 +1,6 @@
 sed -i 's/RTP1/PT-RTP1/g' guide.xml
-sed -i 's/RTP2/PT-RTP2/g' guide.xml
-sed -i 's/RTP3/PT-RTP3/g' guide.xml
+sed -i 's/RTP2/PT-RTP_2/g' guide.xml
+sed -i 's/RTP3/PT-RTP_3/g' guide.xml
 sed -i 's/RTP Memória/PT-RTP_MEMORIA/g' guide.xml
 sed -i 's/RTP Africa/PT-RTP_AFRICA/g' guide.xml
 sed -i 's/RTP Internacional/PT-RTP_INTERNACIONAL/g' guide.xml
