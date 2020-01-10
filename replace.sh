@@ -12,13 +12,13 @@ sed -i 's/SIC Radical/PT-SIC_RADICAL/g' guide.xml
 sed -i 's/SIC K/PT-SIC_K/g' guide.xml
 sed -i 's/SIC Mulher/PT-SIC_MULHER/g' guide.xml
 sed -i 's/SIC Caras/PT-SIC_CARAS/g' guide.xml
-sed -i 's/TVI/PT-TVI/g' guide.xml
+sed -i 's/"TVI"/"PT-TVI"/g' guide.xml
 sed -i 's/TVI24/PT-TVI24/g' guide.xml
-sed -i 's/TVI Ficção/PT-TVI_FICCAO/g' guide.xml
+sed -i 's/TVI Ficção/PT-TVI_FICAO/g' guide.xml
 sed -i 's/CMTV/PT-CM_TV/g' guide.xml
 sed -i 's/Euronews/PT-EURONEWS/g' guide.xml
 sed -i 's/ARTV/PT-ARTV/g' guide.xml
-sed -i 's/Q/PT-Q/g' guide.xml
+sed -i 's/"Q"/"PT-CANAL_Q"/g' guide.xml
 sed -i 's/CANAL 180/PT-CANAL_180/g' guide.xml
 sed -i 's/Porto Canal/PT-PORTO_CANAL/g' guide.xml
 sed -i 's/Localvisão TV/PT-LOCALVISAO_TV/g' guide.xml
