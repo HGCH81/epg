@@ -110,7 +110,7 @@ sed -i 's/TeleSUR/PT-TELESUR/g' guide.xml
 sed -i 's/TVIREAL/PT-TVI_REALITY/g' guide.xml
 sed -i 's/Nicke/PT-NICKELODEON/g' guide.xml
 sed -i 's/Nick Junior/PT-NICK_JUNIOR/g' guide.xml
-sed -i 's/AE/PT-A&E/g' guide.xml
+sed -i 's/"AE"/"PT-A\&E"/g' guide.xml
 sed -i 's/Eleven Sports 1/PT-ELEVEN_SPORT_1_SD/g' guide.xml
 sed -i 's/Eleven Sports 2/PT-ELEVEN_SPORT_2_SD/g' guide.xml
 sed -i 's/Eleven Sports 3/PT-ELEVEN_SPORT_3/g' guide.xml
