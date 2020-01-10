@@ -48,17 +48,17 @@ sed -i 's/A Bola TV/PT-A-BOLA-TV/g' guide.xml
 sed -i 's/Hollywood/PT-HOLLYWOOD/g' guide.xml
 sed -i 's/CINEMUNDO/PT-CINEMUNDO/g' guide.xml
 sed -i 's/AMC/PT-AMC/g' guide.xml
-sed -i 's/PT-TVCINE_1/PT-TVCINE_1/g' guide.xml
+sed -i 's/TVCINE_1/PT-TVCINE_1/g' guide.xml
 sed -i 's/TVCine 2/PT-TVCINE_2/g' guide.xml
 sed -i 's/TVCine 3/PT-TVCINE_3/g' guide.xml
 sed -i 's/TVCine 4/PT-TVCINE_4/g' guide.xml
 sed -i 's/TVSéries/PT-TVS/g' guide.xml
 sed -i 's/FOX Movies/PT-FOX_MOVIES/g' guide.xml
-sed -i 's/FOX/PT-FOX/g' guide.xml
+sed -i 's/"FOX"/"PT-FOX"/g' guide.xml
 sed -i 's/FOX Life/PT-FOX_LIFE/g' guide.xml
 sed -i 's/FOX Crime/PT-FOX_CRIME/g' guide.xml
 sed -i 's/FOX Comedy/PT-FOX_COMEDY/g' guide.xml
-sed -i 's/AXN/PT-AXN/g' guide.xml
+sed -i 's/"AXN"/"PT-AXN"/g' guide.xml
 sed -i 's/AXN White/PT-AXN_WHITE_HD/g' guide.xml
 sed -i 's/AXN Black/PT-AXN_BLACK_HD/g' guide.xml
 sed -i 's/SyFy/PT-SYFY/g' guide.xml
