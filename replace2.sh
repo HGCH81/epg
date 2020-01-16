@@ -35,7 +35,7 @@ sed -i 's/AFRO MUSIC/PT-AFRO_MUSIC/g' guide.xml
 sed -i 's/AMC/PT-AMC/g' guide.xml
 sed -i 's/ARTV/PT-ARTV/g' guide.xml
 sed -i 's/AXN BLACK/PT-AXN_BLACK/g' guide.xml
-sed -i 's/"AXN"/PT-AXN/g' guide.xml
+sed -i 's/"AXN"/"PT-AXN"/g' guide.xml
 sed -i 's/AXN WHITE/PT-AXN_WHITE/g' guide.xml
 sed -i 's/BABY TV/PT-BABY_TV/g' guide.xml
 sed -i 's/BBC ENTERTAINMENT/PT-BBC_ENTERTAINMENT/g' guide.xml
@@ -64,7 +64,7 @@ sed -i 's/EUROSPORT 2/PT-EUROSPORT_2/g' guide.xml
 sed -i 's/FOX LIFE/PT-FOX_LIFE/g' guide.xml
 sed -i 's/FOX CRIME/PT-FOX_CRIME/g' guide.xml
 sed -i 's/FOX COMEDY/PT-FOX_COMEDY/g' guide.xml
-sed -i 's/"FOX"/PT-FOX/g' guide.xml
+sed -i 's/"FOX"/"PT-FOX"/g' guide.xml
 sed -i 's/FOX MOVIES/PT-FOX_MOVIES/g' guide.xml
 sed -i 's/FRANCE 24/PT-FRANCE_24/g' guide.xml
 sed -i 's/FTV/PT-FTV/g' guide.xml
