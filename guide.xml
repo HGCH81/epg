@@ -157,7 +157,7 @@
     <url>http://www.mag.sapo.pt</url>
   </channel>
   <channel id="PT-AXN">
-    <display-name lang="pt">AXN</display-name>
+    <display-name lang="pt">PT-AXN</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
   <channel id="PT-AXN_WHITE">
@@ -273,7 +273,7 @@
     <url>http://www.mag.sapo.pt</url>
   </channel>
   <channel id="PT-FOX">
-    <display-name lang="pt">FOX</display-name>
+    <display-name lang="pt">PT-FOX</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
   <channel id="PT-FOX_MOVIES">
