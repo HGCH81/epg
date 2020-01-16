@@ -21,8 +21,8 @@
     <display-name lang="pt">PT-MOTORVISION</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="PT-PT-TVI_REALITY">
-    <display-name lang="pt">PT-PT-TVI_REALITY</display-name>
+  <channel id="PT-TVI_REALITY">
+    <display-name lang="pt">PT-TVI_REALITY</display-name>
     <url>http://www.nos.pt</url>
   </channel>
   <channel id="PT-NICK_JR">
@@ -531,12 +531,12 @@
     <display-name lang="pt">PT-TVI</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
-  <channel id="PT-PT-TVI_24">
-    <display-name lang="pt">PT-PT-TVI_24</display-name>
+  <channel id="PT-TVI_24">
+    <display-name lang="pt">PT-TVI_24</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
-  <channel id="PT-PT-TVI_FICCAO">
-    <display-name lang="pt">PT-PT-TVI_FICCAO</display-name>
+  <channel id="PT-TVI_FICCAO">
+    <display-name lang="pt">PT-TVI_FICCAO</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
   <channel id="PT-TV_RECORD">
@@ -2149,39 +2149,39 @@
     <category lang="pt">desporto</category>
     <episode-num system="xmltv_ns">T.2 Ep.101</episode-num>
   </programme>
-  <programme start="20200115050000 +0000" stop="20200115130000 +0000" channel="PT-PT-TVI_REALITY">
+  <programme start="20200115050000 +0000" stop="20200115130000 +0000" channel="PT-TVI_REALITY">
     <title lang="pt">Secret Story 7</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200115130000 +0000" stop="20200115210000 +0000" channel="PT-PT-TVI_REALITY">
+  <programme start="20200115130000 +0000" stop="20200115210000 +0000" channel="PT-TVI_REALITY">
     <title lang="pt">Secret Story 7</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200115210000 +0000" stop="20200116050000 +0000" channel="PT-PT-TVI_REALITY">
+  <programme start="20200115210000 +0000" stop="20200116050000 +0000" channel="PT-TVI_REALITY">
     <title lang="pt">Secret Story 7</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200116050000 +0000" stop="20200116130000 +0000" channel="PT-PT-TVI_REALITY">
+  <programme start="20200116050000 +0000" stop="20200116130000 +0000" channel="PT-TVI_REALITY">
     <title lang="pt">Secret Story 7</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200116130000 +0000" stop="20200116210000 +0000" channel="PT-PT-TVI_REALITY">
+  <programme start="20200116130000 +0000" stop="20200116210000 +0000" channel="PT-TVI_REALITY">
     <title lang="pt">Secret Story 7</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200116210000 +0000" stop="20200117050000 +0000" channel="PT-PT-TVI_REALITY">
+  <programme start="20200116210000 +0000" stop="20200117050000 +0000" channel="PT-TVI_REALITY">
     <title lang="pt">Secret Story 7</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200117050000 +0000" stop="20200117130000 +0000" channel="PT-PT-TVI_REALITY">
+  <programme start="20200117050000 +0000" stop="20200117130000 +0000" channel="PT-TVI_REALITY">
     <title lang="pt">Secret Story 7</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200117130000 +0000" stop="20200117210000 +0000" channel="PT-PT-TVI_REALITY">
+  <programme start="20200117130000 +0000" stop="20200117210000 +0000" channel="PT-TVI_REALITY">
     <title lang="pt">Secret Story 7</title>
     <category lang="pt">entretenimento</category>
   </programme>
-  <programme start="20200117210000 +0000" stop="20200118050000 +0000" channel="PT-PT-TVI_REALITY">
+  <programme start="20200117210000 +0000" stop="20200118050000 +0000" channel="PT-TVI_REALITY">
     <title lang="pt">Secret Story 7</title>
     <category lang="pt">entretenimento</category>
   </programme>
@@ -38769,7 +38769,7 @@
   </programme>
   <programme start="20200115101400 +0000" stop="20200115130000 +0000" channel="PT-TVI">
     <title lang="pt">Você Na TV</title>
-    <desc lang="pt">Manuel Luís Goucha e Maria Cerqueira Gomes são os anfitriões das manhãs da PT-TVI. Novo estúdio, novas rubricas com a melhor dupla de apresentadores que irá ao encontro dos portugueses de 2ª a 6ª feira. Jogos, passatempos, eventos e momentos de reportagem de(n)</desc>
+    <desc lang="pt">Manuel Luís Goucha e Maria Cerqueira Gomes são os anfitriões das manhãs da TVI. Novo estúdio, novas rubricas com a melhor dupla de apresentadores que irá ao encontro dos portugueses de 2ª a 6ª feira. Jogos, passatempos, eventos e momentos de reportagem de(n)</desc>
   </programme>
   <programme start="20200115130000 +0000" stop="20200115144700 +0000" channel="PT-TVI">
     <title lang="pt">Jornal Da Uma</title>
@@ -38841,7 +38841,7 @@
   </programme>
   <programme start="20200116101400 +0000" stop="20200116130000 +0000" channel="PT-TVI">
     <title lang="pt">Você Na TV</title>
-    <desc lang="pt">Manuel Luís Goucha e Maria Cerqueira Gomes são os anfitriões das manhãs da PT-TVI. Novo estúdio, novas rubricas com a melhor dupla de apresentadores que irá ao encontro dos portugueses de 2ª a 6ª feira. Jogos, passatempos, eventos e momentos de reportagem de(n)</desc>
+    <desc lang="pt">Manuel Luís Goucha e Maria Cerqueira Gomes são os anfitriões das manhãs da TVI. Novo estúdio, novas rubricas com a melhor dupla de apresentadores que irá ao encontro dos portugueses de 2ª a 6ª feira. Jogos, passatempos, eventos e momentos de reportagem de(n)</desc>
   </programme>
   <programme start="20200116130000 +0000" stop="20200116144500 +0000" channel="PT-TVI">
     <title lang="pt">Jornal Da Uma</title>
@@ -38913,7 +38913,7 @@
   </programme>
   <programme start="20200117101500 +0000" stop="20200117130000 +0000" channel="PT-TVI">
     <title lang="pt">Você Na TV</title>
-    <desc lang="pt">Manuel Luís Goucha e Maria Cerqueira Gomes são os anfitriões das manhãs da PT-TVI. Novo estúdio, novas rubricas com a melhor dupla de apresentadores que irá ao encontro dos portugueses de 2ª a 6ª feira. Jogos, passatempos, eventos e momentos de reportagem de(n)</desc>
+    <desc lang="pt">Manuel Luís Goucha e Maria Cerqueira Gomes são os anfitriões das manhãs da TVI. Novo estúdio, novas rubricas com a melhor dupla de apresentadores que irá ao encontro dos portugueses de 2ª a 6ª feira. Jogos, passatempos, eventos e momentos de reportagem de(n)</desc>
   </programme>
   <programme start="20200117130000 +0000" stop="20200117144500 +0000" channel="PT-TVI">
     <title lang="pt">Jornal Da Uma</title>

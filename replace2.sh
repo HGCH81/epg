@@ -129,7 +129,8 @@ sed -i 's/TVCINE 2/PT-TVCINE_2/g' guide.xml
 sed -i 's/TVCINE 3/PT-TVCINE_3/g' guide.xml
 sed -i 's/TVCINE 4/PT-TVCINE_4/g' guide.xml
 sed -i 's/TVE/PT-TVE/g' guide.xml
-sed -i 's/TVI/PT-TVI/g' guide.xml
+sed -i 's/"TVI"/"PT-TVI"/g' guide.xml
+sed -i 's/>TVI</>PT-TVI</g' guide.xml
 sed -i 's/TVI 24/PT-TVI_24/g' guide.xml
 sed -i 's/TVI FICCAO/PT-TVI_FICCAO/g' guide.xml
 sed -i 's/TV RECORD/PT-TV_RECORD/g' guide.xml
