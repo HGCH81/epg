@@ -1,136 +1,627 @@
-PT-DISCOVERY_SHOWCASE_HD
-PT-FIGHT_NETWORK
-PT-FINE_LIVING_NETWORK_HD
-PT-MOTORSPORT_TV
-PT-MOTORVISION
-PT-TVI_REALITY
-PT-NICK_JR
-PT-GLOBO_PREMIUM
-PT-BBC_WORLD
-PT-ID_INVESTIGATION_DISCOVERY
-PT-NOS_STUDIOS
-PT-FOOD_NETWORK
-PT-FUEL_TV
-PT-MTV_ROCKS
-PT-MTV_DANCE
-PT-VH1_CLASSIC
-PT-NICKELODEON
-PT-NAT_GEO_WILD
-PT-ANGELUS_TV
-PT-BOOMERANG
-PT-CANAL_11
-PT-ELEVEN_SPORTS_1
-PT-ELEVEN_SPORTS_2
-PT-ELEVEN_SPORTS_3
-PT-ELEVEN_SPORTS_4
-PT-ELEVEN_SPORTS_5
-PT-ELEVEN_SPORTS_6
-PT-TRACE_TOCA
-PT-RTP_ACORES
-PT-RTP_MADEIRA
-PT-NHK
-PT-24_KITCHEN
-PT-A_BOLA_TV
-PT-AFRO_MUSIC
-PT-AMC
-PT-ARTV
-PT-AXN_BLACK
-PT-AXN
-PT-AXN_WHITE
-PT-BABY_TV
-PT-BBC_ENTERTAINMENT
-PT-BIGGS
-PT-BLAZE
-PT-BLOOMBERG
-PT-CACA_E_PESCA
-PT-CACAVISION
-PT-CARTOON_NETWORK
-PT-CBS_REALITY
-PT-CRIME_INVESTIGATION
-PT-CINEMUNDO
-PT-CM_TV
-PT-CNN
-PT-CANCAO_NOVA
-PT-DISCOVERY_CHANNEL
-PT-DISNEY_CHANNEL
-PT-DISNEY_JUNIOR
-PT-DOG_TV
-PT-DEUTSCHE_WELLE
-PT-E!_ENTERTAINMENT
-PT-EUROCHANNEL
-PT-EUROSPORT_1
-PT-EURONEWS
-PT-EUROSPORT_2
-PT-FOX_LIFE
-PT-FOX_CRIME
-PT-FOX_COMEDY
-PT-FOX
-PT-FOX_MOVIES
-PT-FRANCE_24
-PT-FTV
-PT-GLOBO
-PT-GLOBO_NOW
-PT-HISTORIA
-PT-HOLLYWOOD
-PT-ICONCERTS
-PT-JIM_JAM
-PT-STINGRAY_MUSIC
-PT-KOMBAT_SPORT
-PT-SIC_K
-PT-KURIAKOS_TV
-PT-LUXE_TV
-PT-LOCALVISAO_TV
-PT-MCM_POP
-PT-MCM_TOP
-PT-MEZZO_LIVE
-PT-MEZZO
-PT-MTV
-PT-MY_CUISINE
-PT-NBA_HD
-PT-NATIONAL_GEOGRAPHIC
-PT-ODISSEIA
-PT-PANDA
-PT-PFC
-PT-PORTO_CANAL
-PT-CANAL_Q
-PT-RECORD_NEWS
-PT-REAL_MADRID_TV
-PT-RTP_1
-PT-RTP_2
-PT-RTP_3
-PT-RTP_AFRICA
-PT-RTP_MEMORIA
-PT-SPORTING_TV
-PT-SIC_CARAS
-PT-SIC
-PT-SIC_MULHER
-PT-SIC_NOTICIAS
-PT-SIC_RADICAL
-PT-SKY_NEWS
-PT-BENFICA_TV
-PT-SPORT_TV_1
-PT-SPORT_TV_2
-PT-SPORT_TV_3
-PT-SPORT_TV_4
-PT-SPORT_TV_5
-PT-SPORT_TV
-PT-SPORT_TV_4K_UHD
-PT-SYFY
-PT-TCV
-PT-TLC
-PT-TOROS
-PT-TPA
-PT-TRACE_URBAN
-PT-TRAVEL_CHANNEL
-PT-TVCINE_1
-PT-TVCINE_2
-PT-TVCINE_3
-PT-TVCINE_4
-PT-TVE
-PT-TVI
-PT-TVI_24
-PT-TVI_FICCAO
-PT-TV_RECORD
-PT-TVSERIES
-PT-UMEUROPA
-PT-VH1
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="PT-RTP1">
+    <display-name lang="en">PT-RTP1</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <channel id="PT-RTP_2">
+    <display-name lang="en">PT-RTP_2</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <channel id="PT-RTP_3">
+    <display-name lang="en">PT-RTP_3</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <channel id="PT-RTP_MEMORIA">
+    <display-name lang="en">PT-RTP_MEMORIA</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <channel id="PT-RTP_AFRICA">
+    <display-name lang="en">PT-RTP_AFRICA</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <channel id="PT-RTP_INTERNACIONAL">
+    <display-name lang="en">PT-RTP_INTERNACIONAL</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <channel id="PT-RTP_ACORES">
+    <display-name lang="en">PT-RTP_ACORES</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <channel id="PT-RTP_MADEIRA">
+    <display-name lang="en">PT-RTP_MADEIRA</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <channel id="PT-SIC">
+    <display-name lang="pt">SIC</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-SIC_NOTICIAS">
+    <display-name lang="pt">PT-SIC_NOTICIAS</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-SIC_RADICAL">
+    <display-name lang="pt">PT-SIC_RADICAL</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-SIC_K">
+    <display-name lang="pt">PT-SIC_K</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-SIC_MULHER">
+    <display-name lang="pt">PT-SIC_MULHER</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-SIC_CARAS">
+    <display-name lang="pt">PT-SIC_CARAS</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-TVI">
+    <display-name lang="pt">TVI</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-TVI24">
+    <display-name lang="pt">PT-TVI24</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-TVI_FICAO">
+    <display-name lang="pt">PT-TVI_FICAO</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-CM_TV">
+    <display-name lang="pt">PT-CM_TV</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-EURONEWS">
+    <display-name lang="pt">PT-EURONEWS</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-ARTV">
+    <display-name lang="pt">PT-ARTV</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-CANAL_Q">
+    <display-name lang="pt">Q</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-CANAL_180">
+    <display-name lang="pt">PT-CANAL_180</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-PORTO_CANAL">
+    <display-name lang="pt">PT-PORTO_CANAL</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-LOCALVISAO_TV">
+    <display-name lang="pt">PT-LOCALVISAO_TV</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-TPA_INTERNACIONAL">
+    <display-name lang="pt">PT-TPA_INTERNACIONAL</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-TV_RECORD">
+    <display-name lang="pt">PT-TV_RECORD</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-RECORD_NEWS">
+    <display-name lang="pt">PT-RECORD_NEWS</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-CARTOON_NETWORK">
+    <display-name lang="pt">PT-CARTOON_NETWORK</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-DISNEY_CHANNEL">
+    <display-name lang="pt">PT-DISNEY_CHANNEL</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-DISNEY_JUNIOR">
+    <display-name lang="pt">PT-DISNEY_JUNIOR</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-CANAL_PANDA">
+    <display-name lang="pt">PT-CANAL_PANDA</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-BIGGS">
+    <display-name lang="pt">PT-BIGGS</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-JIM_JAM">
+    <display-name lang="pt">PT-JIM_JAM</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-BABY_TV">
+    <display-name lang="pt">PT-BABY_TV</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-EUROSPORT_1">
+    <display-name lang="pt">PT-EUROSPORT_1</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-EUROSPORT_1 2">
+    <display-name lang="pt">PT-EUROSPORT_1 2</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-EUROSPORT_1 News">
+    <display-name lang="pt">PT-EUROSPORT_1 News</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-SPORT_TV_1_HD">
+    <display-name lang="pt">PT-SPORT_TV_1_HD</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-SPORT_TV_2_HD">
+    <display-name lang="pt">PT-SPORT_TV_2_HD</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-SPORT_TV_3">
+    <display-name lang="pt">PT-SPORT_TV_3</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-SPORT_TV_4">
+    <display-name lang="pt">PT-SPORT_TV_4</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-SPORT_TV_5">
+    <display-name lang="pt">PT-SPORT_TV_5</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-BTV_HD">
+    <display-name lang="pt">PT-BTV_HD</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-SPORTING_TV">
+    <display-name lang="pt">PT-SPORTING_TV</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-PFC">
+    <display-name lang="pt">PT-PFC</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-FUEL_TV">
+    <display-name lang="pt">PT-FUEL_TV</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-A-BOLA-TV">
+    <display-name lang="pt">PT-A-BOLA-TV</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-HOLLYWOOD">
+    <display-name lang="pt">PT-HOLLYWOOD</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-CINEMUNDO">
+    <display-name lang="pt">PT-CINEMUNDO</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-AMC">
+    <display-name lang="pt">PT-AMC</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-TVCINE_1">
+    <display-name lang="pt">PT-TVCINE_1</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-TVCINE_2">
+    <display-name lang="pt">PT-TVCINE_2</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-TVCINE_3">
+    <display-name lang="pt">PT-TVCINE_3</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-TVCINE_4">
+    <display-name lang="pt">PT-TVCINE_4</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-TVS">
+    <display-name lang="pt">PT-TVS</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-FOX_MOVIES">
+    <display-name lang="pt">PT-FOX_MOVIES</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-FOX">
+    <display-name lang="pt">PT-FOX</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-FOX_LIFE">
+    <display-name lang="pt">PT-FOX_LIFE</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-FOX_CRIME">
+    <display-name lang="pt">PT-FOX_CRIME</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-FOX_COMEDY">
+    <display-name lang="pt">PT-FOX_COMEDY</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-AXN">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-AXN_WHITE_HD">
+    <display-name lang="pt">PT-AXN_WHITE_HD</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-AXN_BLACK_HD">
+    <display-name lang="pt">PT-AXN_BLACK_HD</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-SYFY">
+    <display-name lang="pt">PT-SYFY</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-MTV_PORTUGAL">
+    <display-name lang="pt">PT-MTV_PORTUGAL</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-VH1">
+    <display-name lang="pt">PT-VH1</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-C-MUSIC">
+    <display-name lang="pt">PT-C-MUSIC</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-MEZZO">
+    <display-name lang="pt">PT-MEZZO</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-AFRO_MUSIC">
+    <display-name lang="pt">PT-AFRO_MUSIC</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-CLUBBING_TV">
+    <display-name lang="pt">PT-CLUBBING_TV</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-TRACE_URBAN">
+    <display-name lang="pt">PT-TRACE_URBAN</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-MCM_TOP">
+    <display-name lang="pt">PT-MCM_TOP</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-MCM_POP">
+    <display-name lang="pt">PT-MCM_POP</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-DISCOVERY_CHANNEL">
+    <display-name lang="pt">PT-DISCOVERY_CHANNEL</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-NAT_GEO">
+    <display-name lang="pt">PT-NAT_GEO</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-NAT_GEO_WILD">
+    <display-name lang="pt">PT-NAT_GEO_WILD</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-ODISSEIA">
+    <display-name lang="pt">PT-ODISSEIA</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-HISTORIA">
+    <display-name lang="pt">PT-HISTORIA</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-TLC">
+    <display-name lang="pt">PT-TLC</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-TRAVEL_CHANNEL_HD">
+    <display-name lang="pt">PT-TRAVEL_CHANNEL_HD</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-24_KITCHEN_HD">
+    <display-name lang="pt">PT-24_KITCHEN_HD</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-CBS_REALITY">
+    <display-name lang="pt">PT-CBS_REALITY</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-MAS_CHIC">
+    <display-name lang="pt">PT-MAS_CHIC</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-BBC_ENTERTAINMENT">
+    <display-name lang="pt">PT-BBC_ENTERTAINMENT</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-TCV_INTERNACIONAL">
+    <display-name lang="pt">PT-TCV_INTERNACIONAL</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-CNN">
+    <display-name lang="pt">PT-CNN</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-RUSSIA_TODAY">
+    <display-name lang="pt">PT-RUSSIA_TODAY</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-ALJAZEERA">
+    <display-name lang="pt">PT-ALJAZEERA</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-BBC_WORLD">
+    <display-name lang="pt">PT-BBC_WORLD</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-SKY_NEWS">
+    <display-name lang="pt">PT-SKY_NEWS</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-I24_NEWS_(I)">
+    <display-name lang="pt">PT-I24_NEWS_(I)</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-FRANCE_24_(I)">
+    <display-name lang="pt">PT-FRANCE_24_(I)</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-FRANCE_24_(F)">
+    <display-name lang="pt">PT-FRANCE_24_(F)</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-TV5_MONDE">
+    <display-name lang="pt">PT-TV5_MONDE</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-BLOOMBERG">
+    <display-name lang="pt">PT-BLOOMBERG</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-FTV">
+    <display-name lang="pt">PT-FTV</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-LUXE_TV_HD">
+    <display-name lang="pt">PT-LUXE_TV_HD</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-REAL_MADRID_TV">
+    <display-name lang="pt">PT-REAL_MADRID_TV</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-TV_GALÍCIA">
+    <display-name lang="pt">PT-TV_GALÍCIA</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-TVE_24H">
+    <display-name lang="pt">PT-TVE_24H</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-KBS_WORLD">
+    <display-name lang="pt">PT-KBS_WORLD</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-PLAYBOY_TV">
+    <display-name lang="pt">PT-PLAYBOY_TV</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-HOT">
+    <display-name lang="pt">PT-HOT</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-VENUS">
+    <display-name lang="pt">PT-VENUS</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-SEXTREME">
+    <display-name lang="pt">PT-SEXTREME</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-PENTHOUSE_HD1">
+    <display-name lang="pt">PT-PENTHOUSE_HD1</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-PT-GLOBO_PREMIUM">
+    <display-name lang="pt">PT-PT-GLOBO_PREMIUM</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PT-GLOBO">
+    <display-name lang="pt">PT-GLOBO</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PT-TELESUR">
+    <display-name lang="pt">PT-TELESUR</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PT-TVI_REALITY">
+    <display-name lang="pt">PT-TVI_REALITY</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PT-NICKELODEON">
+    <display-name lang="pt">PT-NICKELODEON</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PT-NICK_JUNIOR">
+    <display-name lang="pt">PT-NICK_JUNIOR</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PT-AE">
+    <display-name lang="pt">AE</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PT-ELEVEN_SPORT_1_SD">
+    <display-name lang="pt">PT-ELEVEN_SPORT_1_SD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PT-ELEVEN_SPORT_2_SD">
+    <display-name lang="pt">PT-ELEVEN_SPORT_2_SD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PT-ELEVEN_SPORT_3">
+    <display-name lang="pt">PT-ELEVEN_SPORT_3</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PT-ELEVEN_SPORT_4">
+    <display-name lang="pt">PT-ELEVEN_SPORT_4</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PT-ELEVEN_SPORT_5">
+    <display-name lang="pt">PT-ELEVEN_SPORT_5</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PT-ELEVEN_SPORT_6">
+    <display-name lang="pt">PT-ELEVEN_SPORT_6</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PT-CGTN">
+    <display-name lang="pt">PT-CGTN</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/cgnt.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="PT-TRACE_TOCA">
+    <display-name lang="pt">PT-TRACE_TOCA</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/trace-toca.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="PT-SPORT_TV">
+    <display-name lang="pt">PT-SPORT_TV</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv+.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="PT-KOMBAT_SPORT">
+    <display-name lang="pt">PT-KOMBAT_SPORT</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/kombat-sport.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="PT-ETB_1">
+    <display-name lang="eu">PT-ETB_1</display-name>
+    <url>http://www.eitb.com</url>
+  </channel>
+  <channel id="PT-ETB_2">
+    <display-name lang="eu">PT-ETB_2</display-name>
+    <url>http://www.eitb.com</url>
+  </channel>
+  <channel id="PT-ETB_SAT">
+    <display-name lang="da">PT-ETB_SAT</display-name>
+    <url>http://www.tvguide.dk</url>
+  </channel>
+  <channel id="PT-LA_1">
+    <display-name lang="da">PT-LA_1</display-name>
+    <url>http://www.tvguide.dk</url>
+  </channel>
+  <channel id="PT-LA_2">
+    <display-name lang="da">PT-LA_2</display-name>
+    <url>http://www.tvguide.dk</url>
+  </channel>
+  <channel id="PT-CANAL_EXTREMADURA">
+    <display-name lang="da">PT-CANAL_EXTREMADURA</display-name>
+    <url>http://www.tvguide.dk</url>
+  </channel>
+  <channel id="PT-PT-CGTN_ESPAÑOL">
+    <display-name lang="da">PT-PT-CGTN_ESPAÑOL</display-name>
+    <url>http://www.tvguide.dk</url>
+  </channel>
+  <channel id="PT-RT_ESPAÑOL">
+    <display-name lang="da">PT-RT_ESPAÑOL</display-name>
+    <url>http://www.tvguide.dk</url>
+  </channel>
+  <channel id="PT-RT_FRANCIA_HD">
+    <display-name lang="da">PT-RT_FRANCIA_HD</display-name>
+    <url>http://www.tvguide.dk</url>
+  </channel>
+  <channel id="PT-SKY_TG24_HD">
+    <display-name lang="it">PT-SKY_TG24_HD</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="PT-RAIMOVIE">
+    <display-name lang="it">PT-RAIMOVIE</display-name>
+    <url>http://www.raiplay.it</url>
+  </channel>
+  <channel id="PT-RAIPREMIUM">
+    <display-name lang="it">PT-RAIPREMIUM</display-name>
+    <url>http://www.raiplay.it</url>
+  </channel>
+  <channel id="PT-RAINEWS24">
+    <display-name lang="it">PT-RAINEWS24</display-name>
+    <url>http://www.raiplay.it</url>
+  </channel>
+  <channel id="PT-DEEJAY_TV">
+    <display-name lang="it">PT-DEEJAY_TV</display-name>
+    <url>http://www.laguidatv.it</url>
+  </channel>
+  <channel id="PT-NRJ_HITS">
+    <display-name lang="fr">PT-NRJ_HITS</display-name>
+    <url>http://www.programme-tv.com</url>
+  </channel>
+  <channel id="PT-DELUXE_MUSIC_TV">
+    <display-name lang="de">PT-DELUXE_MUSIC_TV</display-name>
+    <icon src="/sites/all/themes/tvmovie/images/icons/icon-fb.png" />
+    <url>http://www.tvmovie.de</url>
+  </channel>
+  <channel id="PT-GONG_TV">
+    <display-name lang="fr">PT-GONG_TV</display-name>
+    <icon src="http://www.gongnetworks.com/images/logo.jpg" />
+    <url>http://www.gongnetworks.com</url>
+  </channel>
+  <channel id="PT-GONG_MAX">
+    <display-name lang="fr">PT-GONG_MAX</display-name>
+    <icon src="http://www.gongnetworks.com/images/logo.jpg" />
+    <url>http://www.gongnetworks.com</url>
+  </channel>
+  <channel id="TV Escola [Brazil]">
+    <display-name lang="pt">TV Escola [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Futura [Brazil]">
+    <display-name lang="pt">Futura [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Rede TV [Brazil]">
+    <display-name lang="pt">Rede TV [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SBT [Brazil]">
+    <display-name lang="pt">SBT [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="PT-ARD">
+    <display-name lang="de">PT-ARD</display-name>
+    <url>http://www.prisma.de</url>
+  </channel>
+  <channel id="PT-DW_DEUTSCH">
+    <display-name lang="en">PT-DW_DEUTSCH</display-name>
+    <url>http://www.dw.com</url>
+  </channel>
+  <channel id="PT-DW_DEUTSCH Plus">
+    <display-name lang="en">PT-DW_DEUTSCH Plus</display-name>
+    <url>http://www.dw.com</url>
+  </channel>
+  <channel id="PT-DW_ENGLISH">
+    <display-name lang="en">PT-DW_ENGLISH</display-name>
+    <url>http://www.dw.com</url>
+  </channel>
+  <channel id="PT-DW_ESPANOL">
+    <display-name lang="en">PT-DW_ESPANOL</display-name>
+    <url>http://www.dw.com</url>
+  </channel>
+  <channel id="PT-GRAND_LILLE_TV">
+    <display-name lang="fr">PT-GRAND_LILLE_TV</display-name>
+    <icon src="http://www.programme-television.org/logo_channels/35x35/chaine_930.png" />
+    <url>http://www.programme-television.org</url>
+  </channel>
+  <channel id="PT-ALSACE_20">
+    <display-name lang="fr">PT-ALSACE_20</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" />
+    <url>http://www.telerama.fr</url>
+  </channel>
+  <channel id="PT-HISPANTV">
+    <display-name lang="es">PT-HISPANTV</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="PT-MOTORVISION">
+    <display-name lang="de">PT-MOTORVISION</display-name>
+    <url>http://www.tvtoday.de</url>
+  </channel>

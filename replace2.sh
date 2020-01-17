@@ -70,7 +70,8 @@ sed -i 's/>FOX</>PT-FOX</g' guide.xml
 sed -i 's/FOX MOVIES/PT-FOX_MOVIES/g' guide.xml
 sed -i 's/FRANCE 24/PT-FRANCE_24/g' guide.xml
 sed -i 's/FTV/PT-FTV/g' guide.xml
-sed -i 's/GLOBO/PT-GLOBO/g' guide.xml
+sed -i 's/"GLOBO"/"PT-GLOBO"/g' guide.xml
+sed -i 's/>GLOBO</>PT-GLOBO</g' guide.xml
 sed -i 's/GLOBO NOW/PT-GLOBO_NOW/g' guide.xml
 sed -i 's/HISTORIA/PT-HISTORIA/g' guide.xml
 sed -i 's/HOLLYWOOD/PT-HOLLYWOOD/g' guide.xml
@@ -97,7 +98,7 @@ sed -i 's/PORTO CANAL/PT-PORTO_CANAL/g' guide.xml
 sed -i 's/CANAL_Q/PT-CANAL_Q/g' guide.xml
 sed -i 's/RECORD NEWS/PT-RECORD_NEWS/g' guide.xml
 sed -i 's/REAL MADRID TV/PT-REAL_MADRID_TV/g' guide.xml
-sed -i 's/RTP 1/PT-RTP_1/g' guide.xml
+sed -i 's/RTP 1/PT-RTP1/g' guide.xml
 sed -i 's/RTP 2/PT-RTP_2/g' guide.xml
 sed -i 's/RTP 3/PT-RTP_3/g' guide.xml
 sed -i 's/RTP AFRICA/PT-RTP_AFRICA/g' guide.xml
