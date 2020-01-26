@@ -65,7 +65,7 @@ sed -i 's/fox-life/PT-FOX_LIFE/g' guide.xml
 sed -i 's/fox-crime/PT-FOX_CRIME/g' guide.xml
 sed -i 's/fox-comedy/PT-FOX_COMEDY/g' guide.xml
 sed -i 's/"axn"/"PT-AXN"/g' guide.xml
-sed -i 's/>axn</>PT-AXN</g' guide.xml
+sed -i 's/>AXN</>PT-AXN</g' guide.xml
 sed -i 's/axn-white/PT-AXN_WHITE_HD/g' guide.xml
 sed -i 's/axn-black/PT-AXN_BLACK_HD/g' guide.xml
 sed -i 's/syfy/PT-SYFY/g' guide.xml
