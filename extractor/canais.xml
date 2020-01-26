@@ -202,18 +202,22 @@
   </channel>
   <channel id="PT-TVCINE_1">
     <display-name lang="pt">PT-TVCINE_1</display-name>
+    <display-name lang="pt">PT-TVCINE_1_HD</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
   <channel id="PT-TVCINE_2">
     <display-name lang="pt">PT-TVCINE_2</display-name>
+    <display-name lang="pt">PT-TVCINE_2_HD</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
   <channel id="PT-TVCINE_3">
     <display-name lang="pt">PT-TVCINE_3</display-name>
+    <display-name lang="pt">PT-TVCINE_3_HD</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
   <channel id="PT-TVCINE_4">
     <display-name lang="pt">PT-TVCINE_4</display-name>
+    <display-name lang="pt">PT-TVCINE_4_HD</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
   <channel id="PT-TVS">

@@ -78,7 +78,7 @@ sed -i 's/clubbing-tv/PT-CLUBBING_TV/g' guide.xml
 sed -i 's/trace-tv/PT-TRACE_URBAN/g' guide.xml
 sed -i 's/mcm-top/PT-MCM_TOP/g' guide.xml
 sed -i 's/mcm-pop/PT-MCM_POP/g' guide.xml
-sed -i 's/"discovery"/PT-DISCOVERY_CHANNEL/g' guide.xml
+sed -i 's/"discovery"/"PT-DISCOVERY_CHANNEL"/g' guide.xml
 sed -i 's/>discovery</PT-DISCOVERY_CHANNEL/g' guide.xml
 sed -i 's/national-geographic/PT-NAT_GEO/g' guide.xml
 sed -i 's/nat-geo-wild/PT-NAT_GEO_WILD/g' guide.xml
