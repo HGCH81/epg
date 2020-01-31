@@ -2,10 +2,12 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="PT-RTP1">
     <display-name lang="en">PT-RTP1</display-name>
+    <display-name lang="en">PT-RTP1_HD</display-name>
     <url>http://www.rpt.pt</url>
   </channel>
   <channel id="PT-RTP_2">
     <display-name lang="en">PT-RTP_2</display-name>
+    <display-name lang="en">PT-RTP_2_HD</display-name>
     <url>http://www.rpt.pt</url>
   </channel>
   <channel id="PT-RTP_3">
@@ -33,7 +35,8 @@
     <url>http://www.rpt.pt</url>
   </channel>
   <channel id="PT-SIC">
-    <display-name lang="pt">SIC</display-name>
+    <display-name lang="pt">PT-SIC</display-name>
+    <display-name lang="pt">PT-SIC_HD</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
   <channel id="PT-SIC_NOTICIAS">
@@ -57,7 +60,8 @@
     <url>http://www.mag.sapo.pt</url>
   </channel>
   <channel id="PT-TVI">
-    <display-name lang="pt">TVI</display-name>
+    <display-name lang="pt">PT-TVI</display-name>
+    <display-name lang="pt">PT-TVI_HD</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
   <channel id="PT-TVI24">
@@ -70,6 +74,7 @@
   </channel>
   <channel id="PT-CM_TV">
     <display-name lang="pt">PT-CM_TV</display-name>
+    <display-name lang="pt">PT-CMTV_HD</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
   <channel id="PT-EURONEWS">
@@ -190,6 +195,7 @@
   </channel>
   <channel id="PT-HOLLYWOOD">
     <display-name lang="pt">PT-HOLLYWOOD</display-name>
+    <display-name lang="pt">PT-HOLLYWOOD_HD</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
   <channel id="PT-CINEMUNDO">
@@ -202,26 +208,27 @@
   </channel>
   <channel id="PT-TVCINE_1">
     <display-name lang="pt">PT-TVCINE_1</display-name>
-    <display-name lang="pt">PT-TVCINE_1_HD</display-name>
+    <display-name lang="pt">PT-TV_CINE_1_HD</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
   <channel id="PT-TVCINE_2">
     <display-name lang="pt">PT-TVCINE_2</display-name>
-    <display-name lang="pt">PT-TVCINE_2_HD</display-name>
+    <display-name lang="pt">PT-TV_CINE_2_HD</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
   <channel id="PT-TVCINE_3">
     <display-name lang="pt">PT-TVCINE_3</display-name>
-    <display-name lang="pt">PT-TVCINE_3_HD</display-name>
+    <display-name lang="pt">PT-TV_CINE_3_HD</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
   <channel id="PT-TVCINE_4">
     <display-name lang="pt">PT-TVCINE_4</display-name>
-    <display-name lang="pt">PT-TVCINE_4_HD</display-name>
+    <display-name lang="pt">PT-TV_CINE_4_HD</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
   <channel id="PT-TVS">
     <display-name lang="pt">PT-TVS</display-name>
+    <display-name lang="pt">PT-TVS_HD</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
   <channel id="PT-FOX_MOVIES">
@@ -245,7 +252,7 @@
     <url>http://www.mag.sapo.pt</url>
   </channel>
   <channel id="PT-AXN">
-    <display-name lang="pt">AXN</display-name>
+    <display-name lang="pt">PT-AXN</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
   <channel id="PT-AXN_WHITE_HD">
