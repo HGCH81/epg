@@ -30,7 +30,7 @@ for i in range(0, 6):
  print weekDays[d2.weekday()]
 #exit()
 file.write('<?xml version="1.0" encoding="UTF-8"?>')
-file.write('<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">')
+#file.write('<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">')
 for href in hrefs:
 # print href.attrib['href']
  canal = href.attrib['href'].split('/')[4]
