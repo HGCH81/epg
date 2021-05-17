@@ -19,6 +19,7 @@ file = open("guide.xml","w")
 
 list_channel = requests.get('https://tudonumclick.com/programacao-tv/mais-canais/')
 tree1 = html.fromstring(list_channel.content)
+print tree1
 hrefs = tree1.xpath('.//a[@class="htdn"]')
 today = date.today()
 d1 = today.strftime("%Y%m%d")
@@ -43,8 +44,8 @@ for href in hrefs:
   print href.attrib['href'] + diasemana
   tree = html.fromstring(page.content)
   timex = tree.xpath('.//p[@class="article-info ml10 fs14 left"]/.//b/text()')
-  resumo = tree.xpath('.//b[@class="ml10 black_gray"]/text()')
-  descricao = tree.xpath('.//p[contains(@class,"p10 channel_desc")]/text()')
+  resumo = tree.xpath('.//b[@class="ml10 black_gray dib_mobile"]/text()')
+  descricao = tree.xpath('.//p[contains(@class,"fs16 p10 channel_desc")]/text()')
   for i in range(len(timex)):
     timestamp = timex[i].split()
     start_date = str(d2.strftime("%Y%m%d"))+str(timestamp[0].replace(":","")+str("00 +0000"))
@@ -52,11 +53,14 @@ for href in hrefs:
 #   print 'resumo:', resumo[i]
     desc = ''
     if len(descricao):
-      desc = descricao[i]
-      desc = desc.replace( '&', '&amp;')
-      desc = desc.replace( '<', '&lt;')
-      desc = desc.replace( '>', '&gt;')
-      desc = desc.replace('\\', '&quot;')
+      try:
+        desc = descricao[i]
+        desc = desc.replace( '&', '&amp;')
+        desc = desc.replace( '<', '&lt;')
+        desc = desc.replace( '>', '&gt;')
+        desc = desc.replace('\\', '&quot;')
+      except:
+        print descricao
 
     resumo[i] = resumo[i].replace( '&', '&amp;')
     resumo[i] = resumo[i].replace( '<', '&lt;')
