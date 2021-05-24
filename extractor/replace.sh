@@ -58,7 +58,7 @@ sed -i 's/tvc2/PT-TVCINE_2/g' guide.xml
 sed -i 's/tvc3/PT-TVCINE_3/g' guide.xml
 sed -i 's/tvc4/PT-TVCINE_4/g' guide.xml
 sed -i 's/tv-series/PT-TVS/g' guide.xml
-sed -i 's/FOX Movies/PT-FOX_MOVIES/g' guide.xml
+sed -i 's/"fox-movies"/PT-FOX_MOVIES/g' guide.xml
 sed -i 's/"fox"/"PT-FOX"/g' guide.xml
 sed -i 's/>fox</>PT-FOX</g' guide.xml
 sed -i 's/fox-life/PT-FOX_LIFE/g' guide.xml
