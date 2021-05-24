@@ -24,8 +24,8 @@ hrefs = tree1.xpath('.//a[@class="htdn"]')
 today = date.today()
 d1 = today.strftime("%Y%m%d")
 print datetime.today().strftime('%A')
-weekDays = ('segunda','terca','quarta','quinta','sexta','sabado','domingo')
-for i in range(0, 6):
+weekDays = ('segunda','terca','quarta','quinta','sexta','sabado','domingo','ontem','hoje')
+for i in range(0, 8):
  d2 = today + timedelta(days=i)
  print d2.strftime("%Y%m%d")
  print weekDays[d2.weekday()]
